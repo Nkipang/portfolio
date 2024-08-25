@@ -1,0 +1,55 @@
+*{
+    outline: 1px solid red;
+}
+
+.block1{
+    background-color: #BEFCB8;
+}
+.fonction {
+    margin: 0px 0px 0px 82px;
+}
+.hireme{
+    margin-top: 20px;
+}
+.icon_center{
+ text-align: center;   
+}
+.section3{
+    background-color: #F6FFF5;
+}
+.competence{
+    text-align: center;
+}
+.project{
+    text-align: center;
+}
+.section4{
+    background-color: #8AF580;
+}
+.testimonials{
+    text-align: center;
+}
+.section5{
+    background-color: #F6FFF5;
+}
+.button_more{
+    text-align: center;
+}
+.section7{
+    background-color: #61EB54;
+}
+.sectionfinal{
+    background-color: black;
+}
+.newlog{
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin-left: 700px;
+}
+.newicon{
+    width: 1OOpx;
+    height: 100px;
+    text-align: center;
+    padding: 40px;
+}

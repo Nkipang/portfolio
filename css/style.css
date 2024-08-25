@@ -1,0 +1,18 @@
+.circle1{
+    border: 10px solid #333333;
+    border-radius: 50%;
+    width: 228px;
+    height: 240px;
+    position: relative;
+    left: 1654px;
+    top: -72px;
+}
+.circle2{
+    border: 10px solid #F2cd03;
+    border-radius: 50%;
+    width: 228px;
+    height: 240px;
+    position: relative;
+    left: 1694px;
+    top: -122px;
+}
